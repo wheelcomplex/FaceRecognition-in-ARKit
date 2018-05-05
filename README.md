@@ -11,6 +11,12 @@ This is a simple showcase project, that detects faces using the Vision-API and r
 * iPhone 6s or newer
 * Machine-Learning model
 
+## Usage
+* git clone https://github.com/wheelcomplex/FaceRecognition-in-ARKit
+* cd FaceRecognition-in-ARKit
+* pod install
+* open faceIT.xcworkspace by Xcode 9
+
 ## Machine-Learning model
 
 
