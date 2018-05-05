@@ -12,6 +12,7 @@ This is a simple showcase project, that detects faces using the Vision-API and r
 * Machine-Learning model
 
 ## Usage
+* sudo gem install cocoapods
 * git clone https://github.com/wheelcomplex/FaceRecognition-in-ARKit
 * cd FaceRecognition-in-ARKit
 * pod install
